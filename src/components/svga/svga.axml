@@ -1,0 +1,3 @@
+<view class="svga-class">
+  <canvas id="svgaCanvas" type="2d" class="svga-class"></canvas>
+</view>

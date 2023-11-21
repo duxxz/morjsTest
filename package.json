@@ -1,0 +1,19 @@
+{
+  "name": "moodtalker",
+  "version": "1.0.0",
+  "description": "Morjs测试",
+  "scripts": {
+    "dev": "mor compile --watch",
+    "compile": "mor compile --production"
+  },
+  "keywords": [],
+  "author": "mindera <account@mindera.com.cn>",
+  "license": "",
+  "dependencies": {
+    "@morjs/core": "*",
+    "@tbmp/mp-cloud-sdk": "^1.5.5"
+  },
+  "devDependencies": {
+    "@morjs/cli": "*"
+  }
+}

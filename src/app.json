@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/splash/splash",
+    "pages/home/home",
+    "pages/todos/todos",
+    "pages/add-todo/add-todo"
+  ],
+  "window": {
+    "defaultTitle": "Morjs测试",
+    "titleBarColor": "#D7DBCC",
+    "backgroundColor": "#D7DBCC",
+    "transparentTitle": "auto"
+  }
+}

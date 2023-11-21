@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "svga": "/components/svga/svga"
+  }
+}

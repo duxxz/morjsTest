@@ -1,0 +1,7 @@
+<view class="page-home">
+  <!-- #ifdef taobao -->
+  <view class="page-web">
+    <web-view src="https://www.taobao.com" />
+  </view>
+  <!-- #endif -->
+</view>
